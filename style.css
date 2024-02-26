@@ -1,0 +1,244 @@
+html {
+  height: 100%;
+  width: 100%;
+  font-family: 'Itim';
+}
+
+a:hover,
+a:visited,
+a:link,
+a:active {
+  text-decoration: none;
+}
+
+.container {
+  width: 100%;
+  min-height: 20vh;
+  background-color: white;
+}
+
+nav {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 0;
+}
+
+.logo {
+  width: 180px;
+  cursor: pointer;
+}
+
+nav ul {
+  list-style: none;
+  width: 100%;
+  text-align: right;
+  padding-right: 30px;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 10px 20px;
+}
+
+nav ul li a {
+  color: black;
+  text-decoration: none;
+}
+
+nav ul button {
+  color: white;
+  font-size: 20px;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 20px;
+  background-color: rgb(26, 170, 125);
+}
+
+. {
+  font-family: 'Itim';
+}
+
+.card1 {
+  /* Group 2 */
+
+  position: absolute;
+  width: 331px;
+  height: 248px;
+  left: 89px;
+  top: 496px;
+
+}
+
+.card1 label {
+  /* Transportation • Surveys • RG */
+
+  position: absolute;
+  width: 372px;
+  height: 34px;
+  left: 0px;
+  top: 270px;
+
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 34px;
+  /* identical to box height */
+
+  color: #07BEB8;
+
+
+}
+
+.card2 {
+  /* Group 5 */
+
+  position: absolute;
+  width: 331px;
+  height: 248px;
+  left: 547px;
+  top: 496px;
+
+}
+
+.card2 label {
+  /* Group 7 */
+
+  position: absolute;
+  width: 341px;
+  height: 34px;
+  left: 0px;
+  top: 270px;
+
+  color: #07BEB8;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 34px;
+
+}
+
+.card3 {
+  /* Group 6 */
+
+  position: absolute;
+  width: 366px;
+  height: 248px;
+  left: 974px;
+  top: 496px;
+}
+
+.card3 label {
+  /* Tips • Guidelines */
+
+  position: absolute;
+  width: 341px;
+  height: 34px;
+  left: 80px;
+  top: 270px;
+
+  color: #07BEB8;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 34px;
+
+}
+
+.other_resources h1 {
+  /* Other Resources */
+
+  position: absolute;
+  width: 318px;
+  height: 54px;
+  left: 89px;
+  top: 868px;
+
+  font-family: 'Itim';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 45px;
+  line-height: 54px;
+  /* identical to box height */
+
+  color: #07BEB8;
+
+
+}
+
+.other_resources ul {
+  /* Volunteer Facebook group.  Fostering for Rock Stars Feline Fostering   */
+
+  position: absolute;
+  width: 1279px;
+  height: 272px;
+  left: 105px;
+  top: 960px;
+
+  font-size: 24px;
+  color: #07BEB8;
+
+}
+
+.other_resources ul p {
+  font-size: 24px;
+  color: #07BEB8;
+
+}
+
+.emails h1 {
+  /* Emails: */
+
+  position: absolute;
+  width: 142px;
+  height: 54px;
+  left: 92px;
+  top: 1125px;
+
+  font-family: 'Itim';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 45px;
+  line-height: 54px;
+  /* identical to box height */
+
+  color: #07BEB8;
+}
+
+.emails ul {
+  /* accounting@thedancingcat.org (send copies of invoices) vetservices@thedancingcat.org (Vet Services Volunteer notifications and calendar for vet appointments) fosteradmin@thedancingcat.org (all foster coordinators) transport@thedancingcat.org (all transport volunteers)   */
+
+  position: absolute;
+  width: 1279px;
+  height: 285px;
+  left: 89px;
+  top: 1208px;
+
+  font-family: 'Itim';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 38px;
+
+  color: #07BEB8;
+
+
+}
+
+.emails {
+  position: absolute;
+  top: 50px;
+}
+
+footer {
+  /* Screenshot 2024-02-25 at 1.10 1 */
+
+  position: absolute;
+  width: 100%;
+  height: 207px;
+  left: 0px;
+  top: 2000px;
+
+}
