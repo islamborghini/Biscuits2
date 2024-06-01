@@ -1,5 +1,5 @@
 This is the project for The Dancing Cat. 
-Table 34. 
+Table34. 
 
 Figma:
 https://www.figma.com/file/UrE4hurzeJ46WcZs8jezre/dancing-cat?type=design&node-id=49%3A412&mode=design&t=1NLJdzTapWNjQwYj-1
